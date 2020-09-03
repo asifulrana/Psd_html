@@ -1,0 +1,16 @@
+font 
+inconsulata 400
+playfaire display 400,700
+
+<section class="search">
+		<div class="search_box">
+			<h1>Sign up for newsletter!</h1>
+			<form action="" method="">
+				<input type="email" placeholder="Enter a valid email address">
+				<button type="submit">
+					<img src="images/send.png" alt="send">
+				</button>
+			</form>
+			</div>
+		</div>
+	</section>
